@@ -1,0 +1,224 @@
+{
+  "version": "02_MEGABASE_IMEF_V2.1_PUBLICA",
+  "fecha_corte": "2026-10-29",
+  "fuente_maestra": "02_MEGABASE_IMEF_V2.json",
+  "conteos": {
+    "lineas": 12,
+    "propuestas": 36,
+    "preseleccion_ejecutiva": 12,
+    "fichas_pdf": 36,
+    "propuestas_autorizadas_difusion": 0
+  },
+  "advertencia": "Borrador público preliminar no aprobado. Revisión del profesor necesaria antes de publicación GitHub Pages.",
+  "archivos_descarga": [
+    {
+      "ruta": "downloads/02_AGENDA_12_PROPUESTAS_PRELIMINARES.pdf",
+      "sha256": "c016bd5e8076c476de8d59d167b1a606f0b39859b8d63cad3073ccdcca4c3d16",
+      "bytes": 52878
+    },
+    {
+      "ruta": "downloads/03_METODOLOGIA_EVALUACION_PRELIMINAR.pdf",
+      "sha256": "53a28a47308701c1216fc57dda955f39bb0d78ea6aa163f7b88eec6f49280ed4",
+      "bytes": 48226
+    },
+    {
+      "ruta": "downloads/04_MATRIZ_TEMA_PROBLEMA_SECTOR_PUBLICA.xlsx",
+      "sha256": "f803df1f7d63e825adf57fa91e6e303bddb6b88e353696604a1bec8d8d37bebf",
+      "bytes": 12576
+    },
+    {
+      "ruta": "downloads/05_PROPUESTAS_AUTORIZADAS_DIFUSION.csv",
+      "sha256": "3596e16a531b2a0d39ed9cc4323f6cac377d4608ff8ae2a20c3ab30dc71e5b8b",
+      "bytes": 118
+    },
+    {
+      "ruta": "downloads/fichas/PROP-011.pdf",
+      "sha256": "942c44b5de235fc7db93080d1f072bce52f0709eb4552036558114fa6711fc83",
+      "bytes": 47823
+    },
+    {
+      "ruta": "downloads/fichas/PROP-012.pdf",
+      "sha256": "2165c41604e479410e5094080a3cf2cd955be393a6b3ce823a3e2ed1dbed13f8",
+      "bytes": 48138
+    },
+    {
+      "ruta": "downloads/fichas/PROP-014.pdf",
+      "sha256": "cee5e2d60995681df431022118961f692d2f089fceaa23b03bee0b2bb0608671",
+      "bytes": 47904
+    },
+    {
+      "ruta": "downloads/fichas/PROP-021.pdf",
+      "sha256": "4822239cdda4dff547b7a503367f74db39f548e3b63ee4050786eeb4a9a3c31a",
+      "bytes": 47515
+    },
+    {
+      "ruta": "downloads/fichas/PROP-022.pdf",
+      "sha256": "54881efbd86cc7f4a8babeefb9e25121c21013c8887d79dc0ff838f42a0096a4",
+      "bytes": 47542
+    },
+    {
+      "ruta": "downloads/fichas/PROP-023.pdf",
+      "sha256": "baec1bcb9e93537526c5dc4cb56eb9bd3df28ce4f3ce33992b87740bc9a0a71d",
+      "bytes": 47614
+    },
+    {
+      "ruta": "downloads/fichas/PROP-031.pdf",
+      "sha256": "3cab808a6b14b51aa0f53d1047448919fc6b5127b9fb8e968349b30e2825a103",
+      "bytes": 48010
+    },
+    {
+      "ruta": "downloads/fichas/PROP-032.pdf",
+      "sha256": "f59bdb6155e6874f4d2fbd90f5b31ee8083d10bb6809264f4de5685fdcd1c93e",
+      "bytes": 47744
+    },
+    {
+      "ruta": "downloads/fichas/PROP-034.pdf",
+      "sha256": "43c6e8ff1178f0a3b1f211a937c33c90111d5029a47dbfd4b869e20aad5385bc",
+      "bytes": 47622
+    },
+    {
+      "ruta": "downloads/fichas/PROP-041.pdf",
+      "sha256": "6c607be446faea406eafcb45af095edf6e754f3aede941d5633cb45de1cc9419",
+      "bytes": 48052
+    },
+    {
+      "ruta": "downloads/fichas/PROP-043.pdf",
+      "sha256": "b2a6e669c0f9109f2ceaec028267307950cad02d047f66cb3a961ffa8fe7d611",
+      "bytes": 47603
+    },
+    {
+      "ruta": "downloads/fichas/PROP-044.pdf",
+      "sha256": "c0a8ab10774d168e3719a5162e226a78fee3626514d9532057d157997f065073",
+      "bytes": 47634
+    },
+    {
+      "ruta": "downloads/fichas/PROP-051.pdf",
+      "sha256": "b64fed16bac4e2aeffde395726a55d6dcbd5f469d96a9dec6a480c5f357c0960",
+      "bytes": 47437
+    },
+    {
+      "ruta": "downloads/fichas/PROP-053.pdf",
+      "sha256": "b2c92193858fcf6a7398989cc8e62ba3d539f4417738b1ffa627938f2f241966",
+      "bytes": 47472
+    },
+    {
+      "ruta": "downloads/fichas/PROP-054.pdf",
+      "sha256": "337bb79bc30e846799e5100dc6ff3648969e5bd4fe65fc052f39cfa505ad3307",
+      "bytes": 47450
+    },
+    {
+      "ruta": "downloads/fichas/PROP-061.pdf",
+      "sha256": "07a742b131748691b2115d308343bc3b3075a7792133d639365cb7dcf4ff6487",
+      "bytes": 47389
+    },
+    {
+      "ruta": "downloads/fichas/PROP-062.pdf",
+      "sha256": "4440027385751da1a078a87e8e7b05310c0675ff311324718409d200183978c9",
+      "bytes": 47405
+    },
+    {
+      "ruta": "downloads/fichas/PROP-063.pdf",
+      "sha256": "3cd8baa89182b21b957f861f27089d935b56c0d048db323732cbe3219d824e64",
+      "bytes": 47360
+    },
+    {
+      "ruta": "downloads/fichas/PROP-071.pdf",
+      "sha256": "5ef4684775ed0fc63757138ebda5be07e014de126e119ecc48df4d79a73da8eb",
+      "bytes": 47756
+    },
+    {
+      "ruta": "downloads/fichas/PROP-073.pdf",
+      "sha256": "7c3cba37d8a5fe7eec9e1a76d30edbd88273423432087ef2d786910bcdce8065",
+      "bytes": 47684
+    },
+    {
+      "ruta": "downloads/fichas/PROP-074.pdf",
+      "sha256": "ae83faaee80c7d647472560a261452bd49c3b4c456594105d508679231262d92",
+      "bytes": 47987
+    },
+    {
+      "ruta": "downloads/fichas/PROP-081.pdf",
+      "sha256": "4d82d505bf2ccdcf41544700fdb23af75c30131f61714904ee038c9e42672bb4",
+      "bytes": 47443
+    },
+    {
+      "ruta": "downloads/fichas/PROP-082.pdf",
+      "sha256": "8f042872d8dcf0eec1ffaccb07759db0b4e402968b6ac2d5ab5239beb8b4f9bd",
+      "bytes": 47557
+    },
+    {
+      "ruta": "downloads/fichas/PROP-083.pdf",
+      "sha256": "e698b794db928f45e56b4b8ac51b85b68a65504ed2aacfd492e9e968eb73560d",
+      "bytes": 47497
+    },
+    {
+      "ruta": "downloads/fichas/PROP-091.pdf",
+      "sha256": "9e4bdf016e16ef3b1b4076b7d64fad0e802746b56f5e38b02e0041fb237766e4",
+      "bytes": 47802
+    },
+    {
+      "ruta": "downloads/fichas/PROP-092.pdf",
+      "sha256": "4b19963c593ae270f0ae7ec4ac07e161603ba60748acf7a576b806ec738b7e99",
+      "bytes": 47611
+    },
+    {
+      "ruta": "downloads/fichas/PROP-093.pdf",
+      "sha256": "020aff0804575d18ba7c4275b515de689d39bd4efe3ef026077b77b0a216b840",
+      "bytes": 47437
+    },
+    {
+      "ruta": "downloads/fichas/PROP-101.pdf",
+      "sha256": "aefaf8623d39c94e521ae894be3e8d61242a39a7dc686c70c2c18e0d9355e4ca",
+      "bytes": 47661
+    },
+    {
+      "ruta": "downloads/fichas/PROP-102.pdf",
+      "sha256": "1e8b456537867f0459b8088f3e3d1d045ca3d88e7a8056c0d116f127becd3de4",
+      "bytes": 47654
+    },
+    {
+      "ruta": "downloads/fichas/PROP-104.pdf",
+      "sha256": "38809e6e882567888be278d054801ab7c27fe93513a2819cd3f22ff4bf099cc0",
+      "bytes": 47606
+    },
+    {
+      "ruta": "downloads/fichas/PROP-111.pdf",
+      "sha256": "5d3bb0fe4c00d24cb05b5b48c2c521f3149e5c6b19457276e65dead96fb28ba9",
+      "bytes": 47613
+    },
+    {
+      "ruta": "downloads/fichas/PROP-112.pdf",
+      "sha256": "f7fed9738950e50fe56a4a8b9fc3c5a7267ac278557b3030d96618c589128a69",
+      "bytes": 48028
+    },
+    {
+      "ruta": "downloads/fichas/PROP-113.pdf",
+      "sha256": "47c8362ef9db2c3e18f1ba84c9412ea494706cb9d37275c397332e4617e1a5ad",
+      "bytes": 47678
+    },
+    {
+      "ruta": "downloads/fichas/PROP-121.pdf",
+      "sha256": "f3d533d843e6f60822cf66d233317d0147d68efbaf102e306ac7604bdd14c28f",
+      "bytes": 47537
+    },
+    {
+      "ruta": "downloads/fichas/PROP-122.pdf",
+      "sha256": "a115c80fe6be094fdac4bcfbb8566ad2552123513021e23bcee851f72ce030df",
+      "bytes": 47498
+    },
+    {
+      "ruta": "downloads/fichas/PROP-123.pdf",
+      "sha256": "7993724569e0efeaef758bfe4c7363212332b8a8087a23e904ca65f5c9c8aaf9",
+      "bytes": 47551
+    }
+  ],
+  "archivos_internos_excluidos": [
+    "01_MATRIZ_INVESTIGACION_V1.xlsx",
+    "01_INFORME_INSTITUCIONAL_V1.docx",
+    "IMEF_Yucatan_Megabase_5270_Investigaciones.xlsx",
+    "02_MEGABASE_IMEF_V2.xlsx",
+    "02_MEGABASE_IMEF_V2.json"
+  ],
+  "platform_version": "V2.2",
+  "visual_assets": "assets/images/"
+}

@@ -1,0 +1,3138 @@
+{
+  "schema_version": "2.0.0",
+  "version": "02_MEGABASE_IMEF_V2.1_PUBLICA",
+  "fecha_corte": "2026-10-29",
+  "estado": "Propuesta preliminar para revisión académica. Sin autorización de publicación institucional ni aprobación de IMEF.",
+  "base_maestra": "Derivado de 02_MEGABASE_IMEF_V2.json; proyección pública preliminar sin documentos internos",
+  "lineas": [
+    {
+      "id_linea": "LIN-01",
+      "nombre": "Economía regional y competitividad",
+      "descripcion": "Las declaraciones del presidente local sobre competitividad, formalización e inflación justifican explorar mecanismos financieros microempresariales, sin asumir pérdidas generalizadas.",
+      "subtemas": "Inflación, costos y productividad",
+      "relacion_imef": "A",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-007; SRC-008; SRC-013",
+      "pertinencia_anahuac": "Economía aplicada, análisis de costos y competitividad",
+      "sectores_origen": "Restaurantes independientes de Mérida.; Ferreterías pequeñas de Mérida y Kanasín.; Microcomercios de Mérida y Tizimín.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-013"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-011"
+    },
+    {
+      "id_linea": "LIN-02",
+      "nombre": "Finanzas corporativas y tesorería",
+      "descripcion": "Los comités nacionales de Tesorería y Finanzas Corporativas respaldan la afinidad técnica; se requiere confirmar si existe interés local en registros empresariales.",
+      "subtemas": "Liquidez, capital de trabajo y tesorería",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-008; SRC-015",
+      "pertinencia_anahuac": "Finanzas corporativas, contabilidad y modelación",
+      "sectores_origen": "Pymes de servicios empresariales en Mérida.; Distribuidores de autopartes de Mérida.; Empresas familiares manufactureras de Umán.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-015"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-021"
+    },
+    {
+      "id_linea": "LIN-03",
+      "nombre": "Crédito y financiamiento de mipymes",
+      "descripcion": "ENAFIN documenta instrumentos nacionales de financiamiento, pero sus resultados no demuestran dificultades de prestatarios específicos de Umán o Kanasín.",
+      "subtemas": "Acceso, costo y alternativas de financiamiento",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-008; SRC-010",
+      "pertinencia_anahuac": "Finanzas, emprendimiento y métodos de encuesta",
+      "sectores_origen": "Pequeñas manufactureras de Umán.; Micronegocios comerciales de Kanasín.; Pymes de transporte y logística de Progreso.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-010"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-031"
+    },
+    {
+      "id_linea": "LIN-04",
+      "nombre": "Contabilidad, impuestos y formalización",
+      "descripcion": "La importancia de integrar a la economía formal fue mencionada por representantes locales; ENOE y Censos miden poblaciones diferentes y no se deben confundir.",
+      "subtemas": "Formalización y gestión contable-fiscal",
+      "relacion_imef": "A",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-007; SRC-008; SRC-009",
+      "pertinencia_anahuac": "Contabilidad, fiscalidad, economía empresarial",
+      "sectores_origen": "Pequeños restaurantes de Mérida.; Profesionistas independientes de Mérida.; Microcomerciantes de Tizimín.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-009"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-044"
+    },
+    {
+      "id_linea": "LIN-05",
+      "nombre": "Turismo, hospedaje y proveeduría",
+      "descripcion": "La actividad turística de Yucatán tiene fuentes sectoriales específicas; el IMEF nacional dispone de comité de Industria Turística, sin confirmar programa local.",
+      "subtemas": "Rentabilidad y cadenas de valor turísticas",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-011; SRC-016",
+      "pertinencia_anahuac": "Turismo, administración y análisis de cadenas",
+      "sectores_origen": "Hoteles independientes de Mérida.; Restaurantes y comercios turísticos de Progreso.; Proveedores alimentarios y hoteles de Mérida.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-053"
+    },
+    {
+      "id_linea": "LIN-06",
+      "nombre": "Comercio exterior y logística",
+      "descripcion": "Data México confirma actividad de comercio exterior a escala estatal y municipal; costos, márgenes y estrategias requieren fuentes primarias voluntarias.",
+      "subtemas": "Riesgos cambiarios y costos de logística internacional",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-012; SRC-016",
+      "pertinencia_anahuac": "Negocios internacionales, costos y logística",
+      "sectores_origen": "Importadores y distribuidores de Mérida.; Pymes importadoras que utilizan el puerto de Progreso.; Exportadoras agroalimentarias de Yucatán.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-012",
+        "SRC-016"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-062"
+    },
+    {
+      "id_linea": "LIN-07",
+      "nombre": "Riesgo empresarial y control interno",
+      "descripcion": "IMEF nacional trabaja gestión de riesgos y cumplimiento; la prevalencia de fallas de control en firmas locales todavía es hipótesis.",
+      "subtemas": "Riesgos operativos y continuidad financiera",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-008",
+      "pertinencia_anahuac": "Auditoría de procesos y administración de riesgos",
+      "sectores_origen": "Áreas de tesorería de pymes de servicios de Mérida.; Almacenes y transportistas de Progreso.; Empresas familiares de Mérida.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-071"
+    },
+    {
+      "id_linea": "LIN-08",
+      "nombre": "Transformación digital y fintech",
+      "descripcion": "IMEF nacional cuenta con comité digital; Anáhuac Mayab registra programas de IA y un centro de simulación; la adopción en mipymes es materia empírica.",
+      "subtemas": "Pagos, digitalización e información financiera",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-015; SRC-016; SRC-019",
+      "pertinencia_anahuac": "Finanzas digitales, sistemas y análisis de datos",
+      "sectores_origen": "Comercios minoristas de Valladolid.; Despachos y empresas de servicios de Mérida.; Departamentos financieros de pymes de Mérida.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-015",
+        "SRC-016",
+        "SRC-019"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-082"
+    },
+    {
+      "id_linea": "LIN-09",
+      "nombre": "Gobierno corporativo y empresa familiar",
+      "descripcion": "La permanencia de empresas y los consejos de administración corresponden al comité nacional de gobierno corporativo; el problema local se debe medir.",
+      "subtemas": "Sucesión, consejos y separación patrimonial",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-008; SRC-016",
+      "pertinencia_anahuac": "Gobierno corporativo y dirección estratégica",
+      "sectores_origen": "Comercios y distribuidoras familiares de Mérida.; Pymes industriales de Umán.; Micronegocios familiares de Mérida.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-016"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-091"
+    },
+    {
+      "id_linea": "LIN-10",
+      "nombre": "Capital humano y productividad",
+      "descripcion": "El comité nacional de capital humano atiende modelos de trabajo y productividad; ENOE aporta mercado laboral estatal sin probar rotación en hoteles concretos.",
+      "subtemas": "Rotación, capacidades y costos laborales",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-009; SRC-011",
+      "pertinencia_anahuac": "Gestión del talento, administración y turismo",
+      "sectores_origen": "Hoteles y alojamientos de Mérida.; Áreas administrativas de pymes de Valladolid.; Pymes del sector servicios de Mérida.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-009",
+        "SRC-011"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-101"
+    },
+    {
+      "id_linea": "LIN-11",
+      "nombre": "Energía, sostenibilidad y resiliencia",
+      "descripcion": "El comité nacional de Infraestructura y Energía ofrece afinidad; rentabilidad de inversiones o peso tarifario deben contrastarse con cotizaciones y casos.",
+      "subtemas": "Costos de energía, inversión y resiliencia",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-002; SRC-008; SRC-013",
+      "pertinencia_anahuac": "Evaluación financiera de proyectos y sostenibilidad",
+      "sectores_origen": "Negocios con refrigeración comercial de Mérida.; Hoteles pequeños de Mérida.; Pymes logísticas de Progreso.",
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-112"
+    },
+    {
+      "id_linea": "LIN-12",
+      "nombre": "Educación e inclusión financiera",
+      "descripcion": "La educación financiera es afín a Fundación IMEF y a la División de Negocios; ENIF aporta conceptos generales, no respuestas de jóvenes yucatecos.",
+      "subtemas": "Conocimiento financiero y protección patrimonial",
+      "relacion_imef": "B",
+      "alcance_relacion_imef": "A: tema declarado localmente; B: área nacional; C: nueva propuesta (ninguna).",
+      "evidencia_institucional": "SRC-004; SRC-017; SRC-016",
+      "pertinencia_anahuac": "Finanzas personales, diseño y validación de cuestionarios",
+      "sectores_origen": "Estudiantes universitarios mayores de edad de Mérida.; Trabajadores adultos del comercio de Kanasín.; Propietarios de micronegocios de Tizimín.",
+      "fuentes": [
+        "SRC-004",
+        "SRC-017",
+        "SRC-016"
+      ],
+      "estado_validacion": "Preliminar: revisar con profesor y presidencia IMEF",
+      "id_propuesta_ejecutiva": "PROP-121"
+    }
+  ],
+  "propuestas": [
+    {
+      "id_propuesta": "PROP-011",
+      "id_linea": "LIN-01",
+      "id_original": "PROP-011",
+      "id_problema": "PROB-011",
+      "id_sector": "SEC-032",
+      "tema": "Economía regional y competitividad",
+      "subtema": "Inflación y costos",
+      "problema": "Incrementos en insumos que podrían reducir márgenes.",
+      "justificacion": "Las declaraciones del presidente local sobre competitividad, formalización e inflación justifican explorar mecanismos financieros microempresariales, sin asumir pérdidas generalizadas. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Restaurantes independientes de Mérida.",
+      "subsector": "Restaurantes independientes",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Relación entre el costo de los insumos y el margen de utilidad de restaurantes independientes en Mérida.",
+      "pregunta_investigacion": "¿Cómo se asocian los cambios en costos de insumos con el margen bruto de restaurantes independientes de Mérida?",
+      "variables": "Variación de costos de insumos; margen bruto; precios de menú",
+      "indicadores": "Variación de costos de insumos; margen bruto; precios de menú",
+      "metodologia": "Encuesta + registro agregado voluntario de 12 meses; correlación descriptiva",
+      "disponibilidad_fuentes": "SRC-002; SRC-007; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Declaración / agenda documentada del Grupo Yucatán; proyecto no aprobado",
+      "pertinencia_anahuac": "Economía aplicada, análisis de costos y competitividad",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Necesita costos privados; sesgo de selección"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Necesita costos privados; sesgo de selección",
+      "prioridad_preliminar": "Alta preliminar",
+      "puntuacion_editorial_0_100": 87,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 5,
+          "justificacion": "A: declaraciones locales en SRC-007",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: fuentes SRC-007 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Necesita costos privados; sesgo de selección",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://amexi.com.mx/estados/yucatan-uno-de-los-punteros-en-competitividad/",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-012",
+      "id_linea": "LIN-01",
+      "id_original": "PROP-012",
+      "id_problema": "PROB-012",
+      "id_sector": "SEC-011",
+      "tema": "Economía regional y competitividad",
+      "subtema": "Tasas de interés",
+      "problema": "Financiar inventarios podría resultar costoso.",
+      "justificacion": "Las declaraciones del presidente local sobre competitividad, formalización e inflación justifican explorar mecanismos financieros microempresariales, sin asumir pérdidas generalizadas. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Ferreterías pequeñas de Mérida y Kanasín.",
+      "subsector": "Ferreterías pequeñas",
+      "delimitacion_geografica": "Mérida y Kanasín",
+      "titulo": "Costo del crédito y decisiones de inventario en pequeñas ferreterías de Mérida y Kanasín.",
+      "pregunta_investigacion": "¿Qué relación existe entre costo del crédito y decisiones de inventario en ferreterías pequeñas de Mérida y Kanasín?",
+      "variables": "CAT/tasa efectiva; rotación de inventarios; compras",
+      "indicadores": "CAT/tasa efectiva; rotación de inventarios; compras",
+      "metodologia": "Encuestas y simulaciones de escenarios por tasa",
+      "disponibilidad_fuentes": "SRC-002; SRC-007; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Economía aplicada, análisis de costos y competitividad",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Tasas de cada empresa son confidenciales"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Tasas de cada empresa son confidenciales",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "A: declaraciones locales en SRC-007",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-007 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Tasas de cada empresa son confidenciales",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://amexi.com.mx/estados/yucatan-uno-de-los-punteros-en-competitividad/",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-014",
+      "id_linea": "LIN-01",
+      "id_original": "PROP-014",
+      "id_problema": "PROB-014",
+      "id_sector": "SEC-017",
+      "tema": "Economía regional y competitividad",
+      "subtema": "Productividad regional",
+      "problema": "Diferencias de desempeño entre negocios comparables.",
+      "justificacion": "Las declaraciones del presidente local sobre competitividad, formalización e inflación justifican explorar mecanismos financieros microempresariales, sin asumir pérdidas generalizadas. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Microcomercios de Mérida y Tizimín.",
+      "subsector": "Microcomercios",
+      "delimitacion_geografica": "Mérida y Tizimín",
+      "titulo": "Factores asociados con la productividad de microcomercios en Mérida y Tizimín.",
+      "pregunta_investigacion": "¿Qué factores se asocian con diferencias de productividad entre microcomercios comparables de Mérida y Tizimín?",
+      "variables": "Ventas por trabajador; horario; digitalización; tamaño",
+      "indicadores": "Ventas por trabajador; horario; digitalización; tamaño",
+      "metodologia": "Encuesta transversal estratificada + regresión exploratoria",
+      "disponibilidad_fuentes": "SRC-002; SRC-007; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Declaración / agenda documentada del Grupo Yucatán; proyecto no aprobado",
+      "pertinencia_anahuac": "Economía aplicada, análisis de costos y competitividad",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Comparabilidad de giros y sesgo de autodeclaración"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Comparabilidad de giros y sesgo de autodeclaración",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 76,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 5,
+          "justificacion": "A: declaraciones locales en SRC-007",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-007 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Comparabilidad de giros y sesgo de autodeclaración",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://amexi.com.mx/estados/yucatan-uno-de-los-punteros-en-competitividad/",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-021",
+      "id_linea": "LIN-02",
+      "id_original": "PROP-021",
+      "id_problema": "PROB-021",
+      "id_sector": "SEC-026",
+      "tema": "Finanzas corporativas y tesorería",
+      "subtema": "Cuentas por cobrar",
+      "problema": "Cobros tardíos podrían presionar la liquidez.",
+      "justificacion": "Los comités nacionales de Tesorería y Finanzas Corporativas respaldan la afinidad técnica; se requiere confirmar si existe interés local en registros empresariales. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Pymes de servicios empresariales en Mérida.",
+      "subsector": "Pymes",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Plazos de cobro y liquidez en pymes de servicios empresariales de Mérida.",
+      "pregunta_investigacion": "¿Cómo se relacionan los plazos de cobranza con la liquidez de pymes de servicios empresariales de Mérida?",
+      "variables": "DSO/plazo promedio de cobro; razón corriente; flujo operativo",
+      "indicadores": "DSO/plazo promedio de cobro; razón corriente; flujo operativo",
+      "metodologia": "Encuesta + análisis de indicadores anonimizados",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-015; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas corporativas, contabilidad y modelación",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Cuentas por cobrar privadas; acceso no garantizado"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Cuentas por cobrar privadas; acceso no garantizado",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 76,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: programas SRC-016; recursos de simulación SRC-015",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Cuentas por cobrar privadas; acceso no garantizado",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-015",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-022",
+      "id_linea": "LIN-02",
+      "id_original": "PROP-022",
+      "id_problema": "PROB-022",
+      "id_sector": "SEC-006",
+      "tema": "Finanzas corporativas y tesorería",
+      "subtema": "Capital de trabajo",
+      "problema": "Inventarios inmovilizados pueden consumir efectivo.",
+      "justificacion": "Los comités nacionales de Tesorería y Finanzas Corporativas respaldan la afinidad técnica; se requiere confirmar si existe interés local en registros empresariales. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Distribuidores de autopartes de Mérida.",
+      "subsector": "Distribuidores",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Rotación de inventarios y capital de trabajo en distribuidoras de autopartes de Mérida.",
+      "pregunta_investigacion": "¿Qué relación existe entre rotación de inventarios y necesidades de capital de trabajo en distribuidoras de autopartes de Mérida?",
+      "variables": "Días de inventario; ciclo de caja; capital circulante",
+      "indicadores": "Días de inventario; ciclo de caja; capital circulante",
+      "metodologia": "Estudio multisectorial acotado con cuestionario",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-015; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas corporativas, contabilidad y modelación",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Registros contables no públicos"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Registros contables no públicos",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Registros contables no públicos",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-015",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-023",
+      "id_linea": "LIN-02",
+      "id_original": "PROP-023",
+      "id_problema": "PROB-023",
+      "id_sector": "SEC-008",
+      "tema": "Finanzas corporativas y tesorería",
+      "subtema": "Presupuestos",
+      "problema": "Desviaciones entre flujos proyectados y reales.",
+      "justificacion": "Los comités nacionales de Tesorería y Finanzas Corporativas respaldan la afinidad técnica; se requiere confirmar si existe interés local en registros empresariales. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Empresas familiares manufactureras de Umán.",
+      "subsector": "Empresas familiares manufactureras",
+      "delimitacion_geografica": "Umán",
+      "titulo": "Precisión de los presupuestos de efectivo en empresas manufactureras familiares de Umán.",
+      "pregunta_investigacion": "¿Qué tan precisos son los presupuestos de efectivo de manufactureras familiares de Umán y qué explica sus desviaciones?",
+      "variables": "Error porcentual de pronóstico; volatilidad ventas; horizonte",
+      "indicadores": "Error porcentual de pronóstico; volatilidad ventas; horizonte",
+      "metodologia": "Estudios de caso con presupuestos anonimizados",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-015; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas corporativas, contabilidad y modelación",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 2,
+        "justificacion": "Nivel 2: necesita muestra y/o datos de empresas voluntarias; Requiere presupuestos históricos y consentimiento"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Requiere presupuestos históricos y consentimiento",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 65,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 2,
+          "justificacion": "Nivel 2: necesita muestra y/o datos de empresas voluntarias; Requiere presupuestos históricos y consentimiento",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-015",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-031",
+      "id_linea": "LIN-03",
+      "id_original": "PROP-031",
+      "id_problema": "PROB-031",
+      "id_sector": "SEC-021",
+      "tema": "Crédito y financiamiento de mipymes",
+      "subtema": "Acceso al crédito",
+      "problema": "Requisitos y garantías pueden frenar inversión.",
+      "justificacion": "ENAFIN documenta instrumentos nacionales de financiamiento, pero sus resultados no demuestran dificultades de prestatarios específicos de Umán o Kanasín. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Pequeñas manufactureras de Umán.",
+      "subsector": "Pequeñas manufactureras",
+      "delimitacion_geografica": "Umán",
+      "titulo": "Barreras de acceso al crédito formal para pequeñas manufactureras de Umán.",
+      "pregunta_investigacion": "¿Cuáles son las principales barreras percibidas para solicitar y obtener crédito formal entre pequeñas manufactureras de Umán?",
+      "variables": "Solicitudes aprobadas; garantías; tasa; rechazo; conocimiento",
+      "indicadores": "Solicitudes aprobadas; garantías; tasa; rechazo; conocimiento",
+      "metodologia": "Encuesta a empresas + entrevistas a intermediarios voluntarios",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-010; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas, emprendimiento y métodos de encuesta",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; ENAFIN no produce datos de Umán; muestreo local"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; ENAFIN no produce datos de Umán; muestreo local",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 73,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; ENAFIN no produce datos de Umán; muestreo local",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-010",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-032",
+      "id_linea": "LIN-03",
+      "id_original": "PROP-032",
+      "id_problema": "PROB-032",
+      "id_sector": "SEC-018",
+      "tema": "Crédito y financiamiento de mipymes",
+      "subtema": "Costo financiero",
+      "problema": "Opciones de financiamiento con costos poco comparados.",
+      "justificacion": "ENAFIN documenta instrumentos nacionales de financiamiento, pero sus resultados no demuestran dificultades de prestatarios específicos de Umán o Kanasín. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Micronegocios comerciales de Kanasín.",
+      "subsector": "Micronegocios comerciales",
+      "delimitacion_geografica": "Kanasín",
+      "titulo": "Comparación del costo del financiamiento utilizado por micronegocios de Kanasín.",
+      "pregunta_investigacion": "¿Cómo comparan las personas dueñas de micronegocios de Kanasín los costos efectivos de distintas fuentes de financiamiento?",
+      "variables": "CAT estimado; comisiones; plazo; tipo de prestamista",
+      "indicadores": "CAT estimado; comisiones; plazo; tipo de prestamista",
+      "metodologia": "Cuestionario + simulación estandarizada de contratos",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-010; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas, emprendimiento y métodos de encuesta",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Datos autoinformados; verificar comparabilidad"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Datos autoinformados; verificar comparabilidad",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Datos autoinformados; verificar comparabilidad",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-010",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-034",
+      "id_linea": "LIN-03",
+      "id_original": "PROP-034",
+      "id_problema": "PROB-034",
+      "id_sector": "SEC-027",
+      "tema": "Crédito y financiamiento de mipymes",
+      "subtema": "Arrendamiento",
+      "problema": "Desconocimiento del costo total de equipos financiados.",
+      "justificacion": "ENAFIN documenta instrumentos nacionales de financiamiento, pero sus resultados no demuestran dificultades de prestatarios específicos de Umán o Kanasín. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Pymes de transporte y logística de Progreso.",
+      "subsector": "Pymes",
+      "delimitacion_geografica": "Progreso",
+      "titulo": "Compra frente a arrendamiento financiero de vehículos en pymes logísticas de Progreso.",
+      "pregunta_investigacion": "¿Qué diferencias de costo total encuentran las pymes logísticas de Progreso entre adquirir y arrendar vehículos?",
+      "variables": "Costo presente neto; tasa; mantenimiento; valor residual",
+      "indicadores": "Costo presente neto; tasa; mantenimiento; valor residual",
+      "metodologia": "Modelos de VAN con cotizaciones no vinculantes",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-010; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas, emprendimiento y métodos de encuesta",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Cotizaciones cambian; no implica que empresas desconozcan opciones"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Cotizaciones cambian; no implica que empresas desconozcan opciones",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Cotizaciones cambian; no implica que empresas desconozcan opciones",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-010",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-041",
+      "id_linea": "LIN-04",
+      "id_original": "PROP-041",
+      "id_problema": "PROB-041",
+      "id_sector": "SEC-022",
+      "tema": "Contabilidad, impuestos y formalización",
+      "subtema": "Estados financieros",
+      "problema": "Información incompleta para tomar decisiones.",
+      "justificacion": "La importancia de integrar a la economía formal fue mencionada por representantes locales; ENOE y Censos miden poblaciones diferentes y no se deben confundir. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "INEGI documenta informalidad económica y laboral con métricas distintas; no mide directamente barreras locales.",
+      "sector": "Pequeños restaurantes de Mérida.",
+      "subsector": "Pequeños restaurantes",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Uso de estados financieros en decisiones de operación de pequeños restaurantes de Mérida.",
+      "pregunta_investigacion": "¿En qué medida los estados financieros se utilizan para decisiones operativas en pequeños restaurantes de Mérida?",
+      "variables": "Periodicidad estados; ratios; decisiones de compra/precio",
+      "indicadores": "Periodicidad estados; ratios; decisiones de compra/precio",
+      "metodologia": "Encuesta breve + matriz de prácticas contables",
+      "disponibilidad_fuentes": "SRC-002; SRC-007; SRC-008; SRC-009; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Contabilidad, fiscalidad, economía empresarial",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No probar que información sea incompleta sin observarla"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No probar que información sea incompleta sin observarla",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "A: declaraciones locales en SRC-007",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-009 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No probar que información sea incompleta sin observarla",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-009",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-043",
+      "id_linea": "LIN-04",
+      "id_original": "PROP-043",
+      "id_problema": "PROB-043",
+      "id_sector": "SEC-023",
+      "tema": "Contabilidad, impuestos y formalización",
+      "subtema": "Cumplimiento fiscal",
+      "problema": "Carga administrativa y errores por medir.",
+      "justificacion": "La importancia de integrar a la economía formal fue mencionada por representantes locales; ENOE y Censos miden poblaciones diferentes y no se deben confundir. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "INEGI documenta informalidad económica y laboral con métricas distintas; no mide directamente barreras locales.",
+      "sector": "Profesionistas independientes de Mérida.",
+      "subsector": "Profesionistas independientes",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Costos administrativos del cumplimiento fiscal en profesionistas independientes de Mérida.",
+      "pregunta_investigacion": "¿Qué recursos administrativos destinan profesionistas independientes de Mérida a sus obligaciones fiscales?",
+      "variables": "Horas; honorarios; costo relativo; errores reportados",
+      "indicadores": "Horas; honorarios; costo relativo; errores reportados",
+      "metodologia": "Encuesta transversal y análisis descriptivo",
+      "disponibilidad_fuentes": "SRC-002; SRC-007; SRC-008; SRC-009; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Contabilidad, fiscalidad, economía empresarial",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Datos tributarios sensibles; anonimizar"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Datos tributarios sensibles; anonimizar",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "A: declaraciones locales en SRC-007",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-009 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Datos tributarios sensibles; anonimizar",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-009",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-044",
+      "id_linea": "LIN-04",
+      "id_original": "PROP-044",
+      "id_problema": "PROB-044",
+      "id_sector": "SEC-016",
+      "tema": "Contabilidad, impuestos y formalización",
+      "subtema": "Formalización",
+      "problema": "Trámites y costos que podrían desalentar registro.",
+      "justificacion": "La importancia de integrar a la economía formal fue mencionada por representantes locales; ENOE y Censos miden poblaciones diferentes y no se deben confundir. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "INEGI documenta informalidad económica y laboral con métricas distintas; no mide directamente barreras locales.",
+      "sector": "Microcomerciantes de Tizimín.",
+      "subsector": "Microcomerciantes",
+      "delimitacion_geografica": "Tizimín",
+      "titulo": "Barreras percibidas para la formalización de microcomercios en Tizimín.",
+      "pregunta_investigacion": "¿Qué trámites y costos perciben como barrera a la formalización los microcomerciantes de Tizimín?",
+      "variables": "Tiempo/costo trámite; conocimiento; situación registral",
+      "indicadores": "Tiempo/costo trámite; conocimiento; situación registral",
+      "metodologia": "Encuestas anónimas + mapeo de trámites públicos",
+      "disponibilidad_fuentes": "SRC-002; SRC-007; SRC-008; SRC-009; SRC-016",
+      "relacion_imef": "Declaración / agenda documentada del Grupo Yucatán; proyecto no aprobado",
+      "pertinencia_anahuac": "Contabilidad, fiscalidad, economía empresarial",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 5,
+        "justificacion": "Nivel 5: predomina instrumento anónimo/público; Evitar inferir causalidad; medir percepciones y situación real"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Evitar inferir causalidad; medir percepciones y situación real",
+      "prioridad_preliminar": "Alta preliminar",
+      "puntuacion_editorial_0_100": 93,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 5,
+          "justificacion": "A: declaraciones locales en SRC-007",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: fuentes SRC-009 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: predomina instrumento anónimo/público; Evitar inferir causalidad; medir percepciones y situación real",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-007",
+        "SRC-008",
+        "SRC-009",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-051",
+      "id_linea": "LIN-05",
+      "id_original": "PROP-051",
+      "id_problema": "PROB-051",
+      "id_sector": "SEC-012",
+      "tema": "Turismo, hospedaje y proveeduría",
+      "subtema": "Ocupación y rentabilidad",
+      "problema": "La demanda variable complica el punto de equilibrio.",
+      "justificacion": "La actividad turística de Yucatán tiene fuentes sectoriales específicas; el IMEF nacional dispone de comité de Industria Turística, sin confirmar programa local. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "SEFOTUR documenta los arribos de cruceros y actividad turística; no documenta ventas por establecimiento.",
+      "sector": "Hoteles independientes de Mérida.",
+      "subsector": "Hoteles independientes",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Ocupación hotelera y punto de equilibrio en alojamientos independientes de Mérida.",
+      "pregunta_investigacion": "¿Cómo varía el punto de equilibrio frente a tasas de ocupación en hoteles independientes de Mérida?",
+      "variables": "Ocupación; ADR; RevPAR; costos fijos; punto de equilibrio",
+      "indicadores": "Ocupación; ADR; RevPAR; costos fijos; punto de equilibrio",
+      "metodologia": "Datos agregados de hoteles voluntarios + análisis sensibilidad",
+      "disponibilidad_fuentes": "SRC-002; SRC-011; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Turismo, administración y análisis de cadenas",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No hay acceso a márgenes individuales garantizado"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No hay acceso a márgenes individuales garantizado",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-011 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No hay acceso a márgenes individuales garantizado",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://sefotur.yucatan.gob.mx/boletines/724",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-053",
+      "id_linea": "LIN-05",
+      "id_original": "PROP-053",
+      "id_problema": "PROB-053",
+      "id_sector": "SEC-033",
+      "tema": "Turismo, hospedaje y proveeduría",
+      "subtema": "Turismo de cruceros",
+      "problema": "Demanda de un día difícil de convertir en ingreso recurrente.",
+      "justificacion": "La actividad turística de Yucatán tiene fuentes sectoriales específicas; el IMEF nacional dispone de comité de Industria Turística, sin confirmar programa local. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "SEFOTUR documenta los arribos de cruceros y actividad turística; no documenta ventas por establecimiento.",
+      "sector": "Restaurantes y comercios turísticos de Progreso.",
+      "subsector": "Restaurantes y comercios turísticos",
+      "delimitacion_geografica": "Progreso",
+      "titulo": "Llegada de cruceristas y variación de ventas en comercios turísticos de Progreso.",
+      "pregunta_investigacion": "¿Qué asociación temporal existe entre llegadas de cruceristas y ventas de comercios turísticos de Progreso?",
+      "variables": "Cruceros y pasajeros; ventas semanales; estacionalidad",
+      "indicadores": "Cruceros y pasajeros; ventas semanales; estacionalidad",
+      "metodologia": "Serie de llegadas SEFOTUR + encuesta de ventas anonimizadas",
+      "disponibilidad_fuentes": "SRC-002; SRC-011; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Turismo, administración y análisis de cadenas",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Los arribos no demuestran derrama por comercio ni causalidad"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Los arribos no demuestran derrama por comercio ni causalidad",
+      "prioridad_preliminar": "Alta preliminar",
+      "puntuacion_editorial_0_100": 85,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: fuentes SRC-011 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Los arribos no demuestran derrama por comercio ni causalidad",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://sefotur.yucatan.gob.mx/boletines/724",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-054",
+      "id_linea": "LIN-05",
+      "id_original": "PROP-054",
+      "id_problema": "PROB-054",
+      "id_sector": "SEC-025",
+      "tema": "Turismo, hospedaje y proveeduría",
+      "subtema": "Encadenamientos locales",
+      "problema": "Oportunidades de compra local por identificar.",
+      "justificacion": "La actividad turística de Yucatán tiene fuentes sectoriales específicas; el IMEF nacional dispone de comité de Industria Turística, sin confirmar programa local. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "SEFOTUR documenta los arribos de cruceros y actividad turística; no documenta ventas por establecimiento.",
+      "sector": "Proveedores alimentarios y hoteles de Mérida.",
+      "subsector": "Proveedores alimentarios y hoteles",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Barreras de acceso de proveedores locales a las cadenas de abastecimiento hotelero en Mérida.",
+      "pregunta_investigacion": "¿Qué requisitos y barreras enfrentan proveedores alimentarios locales para vender a hoteles de Mérida?",
+      "variables": "Requisitos; ventas B2B; certificación; logística",
+      "indicadores": "Requisitos; ventas B2B; certificación; logística",
+      "metodologia": "Entrevistas a compradores y proveedores voluntarios",
+      "disponibilidad_fuentes": "SRC-002; SRC-011; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Turismo, administración y análisis de cadenas",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No asumir exclusión o brechas sin entrevistas"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No asumir exclusión o brechas sin entrevistas",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-011 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No asumir exclusión o brechas sin entrevistas",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://sefotur.yucatan.gob.mx/boletines/724",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-061",
+      "id_linea": "LIN-06",
+      "id_original": "PROP-061",
+      "id_problema": "PROB-061",
+      "id_sector": "SEC-015",
+      "tema": "Comercio exterior y logística",
+      "subtema": "Riesgo cambiario",
+      "problema": "Compras en dólares generan incertidumbre de costos.",
+      "justificacion": "Data México confirma actividad de comercio exterior a escala estatal y municipal; costos, márgenes y estrategias requieren fuentes primarias voluntarias. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Data México documenta flujos de comercio estatal; no ofrece fletes ni márgenes por empresa.",
+      "sector": "Importadores y distribuidores de Mérida.",
+      "subsector": "Importadores y distribuidores",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Exposición al tipo de cambio USD/MXN y formación de precios en importadoras de Mérida.",
+      "pregunta_investigacion": "¿Cómo gestionan el riesgo cambiario y su traslado a precios las empresas importadoras de Mérida?",
+      "variables": "USD/MXN; exposición neta; política de precios; cobertura",
+      "indicadores": "USD/MXN; exposición neta; política de precios; cobertura",
+      "metodologia": "Encuesta + simulación de sensibilidad USD/MXN",
+      "disponibilidad_fuentes": "SRC-002; SRC-012; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Negocios internacionales, costos y logística",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Información de coberturas y márgenes es privada"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Información de coberturas y márgenes es privada",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-012 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Información de coberturas y márgenes es privada",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-012",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.economia.gob.mx/datamexico/es/profile/geo/yucatan-yu",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-062",
+      "id_linea": "LIN-06",
+      "id_original": "PROP-062",
+      "id_problema": "PROB-062",
+      "id_sector": "SEC-029",
+      "tema": "Comercio exterior y logística",
+      "subtema": "Costos logísticos",
+      "problema": "Variaciones del flete podrían afectar el margen.",
+      "justificacion": "Data México confirma actividad de comercio exterior a escala estatal y municipal; costos, márgenes y estrategias requieren fuentes primarias voluntarias. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Data México documenta flujos de comercio estatal; no ofrece fletes ni márgenes por empresa.",
+      "sector": "Pymes importadoras que utilizan el puerto de Progreso.",
+      "subsector": "Pymes importadoras que utilizan el puerto",
+      "delimitacion_geografica": "Progreso",
+      "titulo": "Costos de transporte internacional y margen comercial de pymes importadoras vinculadas con Progreso.",
+      "pregunta_investigacion": "¿Qué relación existe entre costo del flete internacional y margen comercial en pymes importadoras que usan Progreso?",
+      "variables": "Costo logístico/ventas; flete por unidad; margen; plazos",
+      "indicadores": "Costo logístico/ventas; flete por unidad; margen; plazos",
+      "metodologia": "Encuesta voluntaria + análisis de escenarios logísticos",
+      "disponibilidad_fuentes": "SRC-002; SRC-012; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Negocios internacionales, costos y logística",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No presume acceso a pedimentos ni facturas de clientes"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No presume acceso a pedimentos ni facturas de clientes",
+      "prioridad_preliminar": "Alta preliminar",
+      "puntuacion_editorial_0_100": 82,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: fuentes SRC-012 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No presume acceso a pedimentos ni facturas de clientes",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-012",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.economia.gob.mx/datamexico/es/profile/geo/yucatan-yu",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-063",
+      "id_linea": "LIN-06",
+      "id_original": "PROP-063",
+      "id_problema": "PROB-063",
+      "id_sector": "SEC-010",
+      "tema": "Comercio exterior y logística",
+      "subtema": "Financiamiento exportador",
+      "problema": "Desfase entre el pago a proveedores y la cobranza.",
+      "justificacion": "Data México confirma actividad de comercio exterior a escala estatal y municipal; costos, márgenes y estrategias requieren fuentes primarias voluntarias. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Data México documenta flujos de comercio estatal; no ofrece fletes ni márgenes por empresa.",
+      "sector": "Exportadoras agroalimentarias de Yucatán.",
+      "subsector": "Exportadoras agroalimentarias",
+      "delimitacion_geografica": "Yucatán",
+      "titulo": "Ciclo de cobro y necesidades de capital de trabajo en exportadoras agroalimentarias yucatecas.",
+      "pregunta_investigacion": "¿Cómo influyen los plazos de cobranza internacional en el capital de trabajo de exportadoras agroalimentarias de Yucatán?",
+      "variables": "Días cobro; anticipo; inventarios; ciclo de efectivo",
+      "indicadores": "Días cobro; anticipo; inventarios; ciclo de efectivo",
+      "metodologia": "Estudio de casos con contratos anonimizados",
+      "disponibilidad_fuentes": "SRC-002; SRC-012; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Negocios internacionales, costos y logística",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 2,
+        "justificacion": "Nivel 2: necesita muestra y/o datos de empresas voluntarias; Contratos comerciales y saldos privados"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Contratos comerciales y saldos privados",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 65,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-012 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 2,
+          "justificacion": "Nivel 2: necesita muestra y/o datos de empresas voluntarias; Contratos comerciales y saldos privados",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-012",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.economia.gob.mx/datamexico/es/profile/geo/yucatan-yu",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-071",
+      "id_linea": "LIN-07",
+      "id_original": "PROP-071",
+      "id_problema": "PROB-071",
+      "id_sector": "SEC-036",
+      "tema": "Riesgo empresarial y control interno",
+      "subtema": "Control de pagos",
+      "problema": "Errores, duplicidades o conciliaciones tardías.",
+      "justificacion": "IMEF nacional trabaja gestión de riesgos y cumplimiento; la prevalencia de fallas de control en firmas locales todavía es hipótesis. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Áreas de tesorería de pymes de servicios de Mérida.",
+      "subsector": "Áreas",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Controles de conciliación y errores de pago en tesorerías de pymes de Mérida.",
+      "pregunta_investigacion": "¿Con qué frecuencia se aplican controles de conciliación y cómo se asocian con incidencias de pago en pymes de Mérida?",
+      "variables": "Frecuencia conciliación; segregación funciones; incidencias",
+      "indicadores": "Frecuencia conciliación; segregación funciones; incidencias",
+      "metodologia": "Encuesta de controles + autoevaluación sin datos bancarios",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Auditoría de procesos y administración de riesgos",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Casos de fraude no deben recolectarse identificablemente"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Casos de fraude no deben recolectarse identificablemente",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 73,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Casos de fraude no deben recolectarse identificablemente",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-073",
+      "id_linea": "LIN-07",
+      "id_original": "PROP-073",
+      "id_problema": "PROB-073",
+      "id_sector": "SEC-001",
+      "tema": "Riesgo empresarial y control interno",
+      "subtema": "Continuidad operativa",
+      "problema": "Interrupciones climáticas potenciales sin plan definido.",
+      "justificacion": "IMEF nacional trabaja gestión de riesgos y cumplimiento; la prevalencia de fallas de control en firmas locales todavía es hipótesis. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Almacenes y transportistas de Progreso.",
+      "subsector": "Almacenes y transportistas",
+      "delimitacion_geografica": "Progreso",
+      "titulo": "Preparación financiera frente a interrupciones climáticas en operadores logísticos de Progreso.",
+      "pregunta_investigacion": "¿Qué medidas financieras preventivas usan transportistas y almacenes de Progreso ante interrupciones climáticas?",
+      "variables": "Reserva de liquidez; seguro; días de interrupción; plan",
+      "indicadores": "Reserva de liquidez; seguro; días de interrupción; plan",
+      "metodologia": "Encuesta + escenarios de continuidad/estrés",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Auditoría de procesos y administración de riesgos",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No demostrar que carezcan de planes antes del levantamiento"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No demostrar que carezcan de planes antes del levantamiento",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No demostrar que carezcan de planes antes del levantamiento",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-074",
+      "id_linea": "LIN-07",
+      "id_original": "PROP-074",
+      "id_problema": "PROB-074",
+      "id_sector": "SEC-007",
+      "tema": "Riesgo empresarial y control interno",
+      "subtema": "Prevención del fraude",
+      "problema": "Controles insuficientemente conocidos o aplicados.",
+      "justificacion": "IMEF nacional trabaja gestión de riesgos y cumplimiento; la prevalencia de fallas de control en firmas locales todavía es hipótesis. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Empresas familiares de Mérida.",
+      "subsector": "Empresas familiares",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Madurez de controles antifraude en pequeñas empresas familiares de Mérida.",
+      "pregunta_investigacion": "¿Qué prácticas de prevención de fraude reportan pequeñas empresas familiares de Mérida?",
+      "variables": "Políticas; autorizaciones; capacitación; riesgo percibido",
+      "indicadores": "Políticas; autorizaciones; capacitación; riesgo percibido",
+      "metodologia": "Cuestionario de madurez con escala publicada y revisión voluntaria",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Auditoría de procesos y administración de riesgos",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Riesgo reputacional; confidencialidad estricta"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Riesgo reputacional; confidencialidad estricta",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Riesgo reputacional; confidencialidad estricta",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-081",
+      "id_linea": "LIN-08",
+      "id_original": "PROP-081",
+      "id_problema": "PROB-081",
+      "id_sector": "SEC-002",
+      "tema": "Transformación digital y fintech",
+      "subtema": "Pagos digitales",
+      "problema": "Baja adopción potencial por costos o desconfianza.",
+      "justificacion": "IMEF nacional cuenta con comité digital; Anáhuac Mayab registra programas de IA y un centro de simulación; la adopción en mipymes es materia empírica. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Comercios minoristas de Valladolid.",
+      "subsector": "Comercios minoristas",
+      "delimitacion_geografica": "Valladolid",
+      "titulo": "Factores de adopción de pagos digitales en comercios minoristas de Valladolid.",
+      "pregunta_investigacion": "¿Cuáles son los factores asociados con la adopción de pagos digitales en comercios minoristas de Valladolid?",
+      "variables": "Aceptación terminal/QR; comisión; volumen; confianza",
+      "indicadores": "Aceptación terminal/QR; comisión; volumen; confianza",
+      "metodologia": "Encuesta censal localizada + logística descriptiva",
+      "disponibilidad_fuentes": "SRC-002; SRC-015; SRC-016; SRC-019",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas digitales, sistemas y análisis de datos",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No se conoce tasa local antes de muestrear"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No se conoce tasa local antes de muestrear",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No se conoce tasa local antes de muestrear",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-015",
+        "SRC-016",
+        "SRC-019"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-082",
+      "id_linea": "LIN-08",
+      "id_original": "PROP-082",
+      "id_problema": "PROB-082",
+      "id_sector": "SEC-005",
+      "tema": "Transformación digital y fintech",
+      "subtema": "Sistemas de gestión",
+      "problema": "Indicadores financieros dispersos en hojas de cálculo.",
+      "justificacion": "IMEF nacional cuenta con comité digital; Anáhuac Mayab registra programas de IA y un centro de simulación; la adopción en mipymes es materia empírica. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Despachos y empresas de servicios de Mérida.",
+      "subsector": "Despachos y empresas",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Digitalización de indicadores y oportunidad de la información financiera en pymes de servicios de Mérida.",
+      "pregunta_investigacion": "¿Qué relación existe entre digitalización de indicadores y oportunidad de los reportes financieros en pymes de servicios de Mérida?",
+      "variables": "Días cierre; frecuencia tablero; digitalización; errores",
+      "indicadores": "Días cierre; frecuencia tablero; digitalización; errores",
+      "metodologia": "Encuesta + evaluación de prototipos sin datos sensibles",
+      "disponibilidad_fuentes": "SRC-002; SRC-015; SRC-016; SRC-019",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas digitales, sistemas y análisis de datos",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 5,
+        "justificacion": "Nivel 5: predomina instrumento anónimo/público; Requiere permiso para entrevistas; no asumir bajo nivel digital"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Requiere permiso para entrevistas; no asumir bajo nivel digital",
+      "prioridad_preliminar": "Alta preliminar",
+      "puntuacion_editorial_0_100": 82,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: programas SRC-016; recursos de simulación SRC-015",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: predomina instrumento anónimo/público; Requiere permiso para entrevistas; no asumir bajo nivel digital",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-015",
+        "SRC-016",
+        "SRC-019"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-083",
+      "id_linea": "LIN-08",
+      "id_original": "PROP-083",
+      "id_problema": "PROB-083",
+      "id_sector": "SEC-004",
+      "tema": "Transformación digital y fintech",
+      "subtema": "Inteligencia artificial",
+      "problema": "Inversión tecnológica sin indicadores claros de retorno.",
+      "justificacion": "IMEF nacional cuenta con comité digital; Anáhuac Mayab registra programas de IA y un centro de simulación; la adopción en mipymes es materia empírica. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Departamentos financieros de pymes de Mérida.",
+      "subsector": "Departamentos financieros",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Criterios de evaluación del retorno de IA en procesos financieros de pymes de Mérida.",
+      "pregunta_investigacion": "¿Qué criterios utilizan directivos financieros de pymes de Mérida para evaluar retorno de inversión en IA?",
+      "variables": "ROI esperado; costo adopción; ahorro tiempo; KPIs",
+      "indicadores": "ROI esperado; costo adopción; ahorro tiempo; KPIs",
+      "metodologia": "Entrevistas semiestructuradas + casos simulados",
+      "disponibilidad_fuentes": "SRC-002; SRC-015; SRC-016; SRC-019",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas digitales, sistemas y análisis de datos",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Empresas con IA pueden ser pocas; no inferir ROI real"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Empresas con IA pueden ser pocas; no inferir ROI real",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Empresas con IA pueden ser pocas; no inferir ROI real",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-015",
+        "SRC-016",
+        "SRC-019"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-091",
+      "id_linea": "LIN-09",
+      "id_original": "PROP-091",
+      "id_problema": "PROB-091",
+      "id_sector": "SEC-003",
+      "tema": "Gobierno corporativo y empresa familiar",
+      "subtema": "Sucesión",
+      "problema": "Falta de reglas explícitas para relevo directivo.",
+      "justificacion": "La permanencia de empresas y los consejos de administración corresponden al comité nacional de gobierno corporativo; el problema local se debe medir. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Comercios y distribuidoras familiares de Mérida.",
+      "subsector": "Comercios y distribuidoras familiares",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Planeación de la sucesión y continuidad de comercios familiares de Mérida.",
+      "pregunta_investigacion": "¿Qué relación existe entre preparación de planes sucesorios y prácticas de continuidad en comercios familiares de Mérida?",
+      "variables": "Plan formal; roles; dependencia directiva; antigüedad",
+      "indicadores": "Plan formal; roles; dependencia directiva; antigüedad",
+      "metodologia": "Encuesta confidencial y entrevistas familiares voluntarias",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Gobierno corporativo y dirección estratégica",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 5,
+        "justificacion": "Nivel 5: predomina instrumento anónimo/público; No medir supervivencia causal con diseño transversal"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No medir supervivencia causal con diseño transversal",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 79,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: predomina instrumento anónimo/público; No medir supervivencia causal con diseño transversal",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-092",
+      "id_linea": "LIN-09",
+      "id_original": "PROP-092",
+      "id_problema": "PROB-092",
+      "id_sector": "SEC-030",
+      "tema": "Gobierno corporativo y empresa familiar",
+      "subtema": "Consejo asesor",
+      "problema": "Decisiones estratégicas concentradas en propietarios.",
+      "justificacion": "La permanencia de empresas y los consejos de administración corresponden al comité nacional de gobierno corporativo; el problema local se debe medir. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Pymes industriales de Umán.",
+      "subsector": "Pymes industriales",
+      "delimitacion_geografica": "Umán",
+      "titulo": "Uso de consejos asesores y calidad de decisiones en pymes industriales de Umán.",
+      "pregunta_investigacion": "¿Cómo se asocia la existencia de consejo asesor con la calidad declarada de decisiones en pymes industriales de Umán?",
+      "variables": "Consejo; frecuencia reunión; criterios decisiones",
+      "indicadores": "Consejo; frecuencia reunión; criterios decisiones",
+      "metodologia": "Entrevistas + cuestionario estructurado",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Gobierno corporativo y dirección estratégica",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Valoraciones subjetivas; tamaño de muestra"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Valoraciones subjetivas; tamaño de muestra",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Valoraciones subjetivas; tamaño de muestra",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-093",
+      "id_linea": "LIN-09",
+      "id_original": "PROP-093",
+      "id_problema": "PROB-093",
+      "id_sector": "SEC-019",
+      "tema": "Gobierno corporativo y empresa familiar",
+      "subtema": "Separación patrimonial",
+      "problema": "Mezcla de gastos personales y empresariales.",
+      "justificacion": "La permanencia de empresas y los consejos de administración corresponden al comité nacional de gobierno corporativo; el problema local se debe medir. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Micronegocios familiares de Mérida.",
+      "subsector": "Micronegocios familiares",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Separación de finanzas personales y empresariales en micronegocios familiares de Mérida.",
+      "pregunta_investigacion": "¿Cómo manejan la separación de finanzas personales y empresariales micronegocios familiares de Mérida?",
+      "variables": "Cuenta separada; registros; retiros; planificación",
+      "indicadores": "Cuenta separada; registros; retiros; planificación",
+      "metodologia": "Encuesta voluntaria con respuestas no identificables",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Gobierno corporativo y dirección estratégica",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No solicitar datos bancarios ni montos personales"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No solicitar datos bancarios ni montos personales",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; No solicitar datos bancarios ni montos personales",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-101",
+      "id_linea": "LIN-10",
+      "id_original": "PROP-101",
+      "id_problema": "PROB-101",
+      "id_sector": "SEC-014",
+      "tema": "Capital humano y productividad",
+      "subtema": "Rotación laboral",
+      "problema": "Sustitución frecuente eleva costos de operación.",
+      "justificacion": "El comité nacional de capital humano atiende modelos de trabajo y productividad; ENOE aporta mercado laboral estatal sin probar rotación en hoteles concretos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Hoteles y alojamientos de Mérida.",
+      "subsector": "Hoteles y alojamientos",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Costo estimado de rotación y estrategias de retención en hoteles de Mérida.",
+      "pregunta_investigacion": "¿Qué costo estimado representa la rotación laboral para hoteles de Mérida y qué estrategias se asocian con menor rotación?",
+      "variables": "Rotación; costo reclutamiento; tiempo vacante; retención",
+      "indicadores": "Rotación; costo reclutamiento; tiempo vacante; retención",
+      "metodologia": "Encuesta a recursos humanos + fórmula de costo estándar",
+      "disponibilidad_fuentes": "SRC-002; SRC-009; SRC-011; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Gestión del talento, administración y turismo",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Datos laborales no públicos; posible variación por tipo hotel"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Datos laborales no públicos; posible variación por tipo hotel",
+      "prioridad_preliminar": "Alta preliminar",
+      "puntuacion_editorial_0_100": 82,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: fuentes SRC-009 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Datos laborales no públicos; posible variación por tipo hotel",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-009",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-102",
+      "id_linea": "LIN-10",
+      "id_original": "PROP-102",
+      "id_problema": "PROB-102",
+      "id_sector": "SEC-035",
+      "tema": "Capital humano y productividad",
+      "subtema": "Formación digital",
+      "problema": "Competencias tecnológicas desiguales en administración.",
+      "justificacion": "El comité nacional de capital humano atiende modelos de trabajo y productividad; ENOE aporta mercado laboral estatal sin probar rotación en hoteles concretos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Áreas administrativas de pymes de Valladolid.",
+      "subsector": "Áreas administrativas",
+      "delimitacion_geografica": "Valladolid",
+      "titulo": "Capacitación digital y eficiencia administrativa en pymes de Valladolid.",
+      "pregunta_investigacion": "¿Cómo se relaciona la capacitación digital con eficiencia administrativa en pymes de Valladolid?",
+      "variables": "Horas capacitación; tiempo trámite; errores",
+      "indicadores": "Horas capacitación; tiempo trámite; errores",
+      "metodologia": "Encuesta + análisis comparativo observacional",
+      "disponibilidad_fuentes": "SRC-002; SRC-009; SRC-011; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Gestión del talento, administración y turismo",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Autoselección de empresas capacitadas"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Autoselección de empresas capacitadas",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-009 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Autoselección de empresas capacitadas",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-009",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-104",
+      "id_linea": "LIN-10",
+      "id_original": "PROP-104",
+      "id_problema": "PROB-104",
+      "id_sector": "SEC-028",
+      "tema": "Capital humano y productividad",
+      "subtema": "Retención de talento",
+      "problema": "Beneficios no monetarios y permanencia poco estudiados.",
+      "justificacion": "El comité nacional de capital humano atiende modelos de trabajo y productividad; ENOE aporta mercado laboral estatal sin probar rotación en hoteles concretos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Pymes del sector servicios de Mérida.",
+      "subsector": "Pymes del sector servicios",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Relación entre prestaciones no salariales y retención de personal en pymes de servicios de Mérida.",
+      "pregunta_investigacion": "¿Qué relación existe entre prestaciones no salariales y permanencia del personal en pymes de servicios de Mérida?",
+      "variables": "Prestaciones; permanencia; clima laboral",
+      "indicadores": "Prestaciones; permanencia; clima laboral",
+      "metodologia": "Encuesta voluntaria a responsables y personal adulto",
+      "disponibilidad_fuentes": "SRC-002; SRC-009; SRC-011; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Gestión del talento, administración y turismo",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 3,
+        "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Consentimiento y riesgo de sesgo de percepción"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Consentimiento y riesgo de sesgo de percepción",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 68,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-009 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: necesita muestra y/o datos de empresas voluntarias; Consentimiento y riesgo de sesgo de percepción",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-009",
+        "SRC-011",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-111",
+      "id_linea": "LIN-11",
+      "id_original": "PROP-111",
+      "id_problema": "PROB-111",
+      "id_sector": "SEC-020",
+      "tema": "Energía, sostenibilidad y resiliencia",
+      "subtema": "Costos eléctricos",
+      "problema": "Consumo energético podría limitar rentabilidad.",
+      "justificacion": "El comité nacional de Infraestructura y Energía ofrece afinidad; rentabilidad de inversiones o peso tarifario deben contrastarse con cotizaciones y casos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Negocios con refrigeración comercial de Mérida.",
+      "subsector": "Negocios con refrigeración comercial",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Costo eléctrico y margen operativo de negocios con refrigeración comercial en Mérida.",
+      "pregunta_investigacion": "¿Qué proporción del costo operativo representa la electricidad en comercios con refrigeración de Mérida?",
+      "variables": "kWh; costo eléctrico/ventas; margen; equipos",
+      "indicadores": "kWh; costo eléctrico/ventas; margen; equipos",
+      "metodologia": "Encuesta de consumos agregados + tarifa pública",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Evaluación financiera de proyectos y sostenibilidad",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Recibos empresariales no públicos"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Recibos empresariales no públicos",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Recibos empresariales no públicos",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-112",
+      "id_linea": "LIN-11",
+      "id_original": "PROP-112",
+      "id_problema": "PROB-112",
+      "id_sector": "SEC-013",
+      "tema": "Energía, sostenibilidad y resiliencia",
+      "subtema": "Energía solar",
+      "problema": "Plazos de recuperación de inversiones poco estimados.",
+      "justificacion": "El comité nacional de Infraestructura y Energía ofrece afinidad; rentabilidad de inversiones o peso tarifario deben contrastarse con cotizaciones y casos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Hoteles pequeños de Mérida.",
+      "subsector": "Hoteles pequeños",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Viabilidad financiera de paneles solares en hoteles pequeños de Mérida.",
+      "pregunta_investigacion": "¿En qué condiciones resulta financieramente atractiva una inversión fotovoltaica en hoteles pequeños de Mérida?",
+      "variables": "CAPEX; tarifa; ahorro kWh; VAN; payback",
+      "indicadores": "CAPEX; tarifa; ahorro kWh; VAN; payback",
+      "metodologia": "Modelo de escenarios con tarifas públicas y cotizaciones voluntarias",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Evaluación financiera de proyectos y sostenibilidad",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No afirmar recuperación positiva para todos los hoteles"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No afirmar recuperación positiva para todos los hoteles",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 79,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: programas SRC-016; recursos de simulación SRC-015",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No afirmar recuperación positiva para todos los hoteles",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-113",
+      "id_linea": "LIN-11",
+      "id_original": "PROP-113",
+      "id_problema": "PROB-113",
+      "id_sector": "SEC-031",
+      "tema": "Energía, sostenibilidad y resiliencia",
+      "subtema": "Riesgo climático",
+      "problema": "Planes financieros de contingencia insuficientes por evaluar.",
+      "justificacion": "El comité nacional de Infraestructura y Energía ofrece afinidad; rentabilidad de inversiones o peso tarifario deben contrastarse con cotizaciones y casos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "Contexto general verificable; existencia/intensidad del problema en la población concreta es hipótesis aún no observada.",
+      "sector": "Pymes logísticas de Progreso.",
+      "subsector": "Pymes logísticas",
+      "delimitacion_geografica": "Progreso",
+      "titulo": "Planeación de reservas de emergencia ante riesgos climáticos en pymes logísticas de Progreso.",
+      "pregunta_investigacion": "¿Qué criterios de reserva financiera consideran empresas logísticas de Progreso frente a escenarios de riesgo climático?",
+      "variables": "Días caja; cobertura seguro; pérdida máxima modelada",
+      "indicadores": "Días caja; cobertura seguro; pérdida máxima modelada",
+      "metodologia": "Simulación de estrés + encuesta cualitativa",
+      "disponibilidad_fuentes": "SRC-002; SRC-008; SRC-013; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Evaluación financiera de proyectos y sostenibilidad",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Evitar solicitar información operativa crítica"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Evitar solicitar información operativa crítica",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-008 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Evitar solicitar información operativa crítica",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-002",
+        "SRC-008",
+        "SRC-013",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-121",
+      "id_linea": "LIN-12",
+      "id_original": "PROP-121",
+      "id_problema": "PROB-121",
+      "id_sector": "SEC-009",
+      "tema": "Educación e inclusión financiera",
+      "subtema": "Costo del crédito",
+      "problema": "Comprensión limitada del CAT por medir.",
+      "justificacion": "La educación financiera es afín a Fundación IMEF y a la División de Negocios; ENIF aporta conceptos generales, no respuestas de jóvenes yucatecos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "ENIF aporta marco nacional; nivel de conocimientos local aún no medido.",
+      "sector": "Estudiantes universitarios mayores de edad de Mérida.",
+      "subsector": "Estudiantes universitarios mayores",
+      "delimitacion_geografica": "Mérida",
+      "titulo": "Comprensión del costo anual total del crédito en universitarios mayores de edad de Mérida.",
+      "pregunta_investigacion": "¿Qué nivel de comprensión del costo anual total del crédito presentan universitarios mayores de edad de Mérida?",
+      "variables": "Aciertos CAT; experiencia crédito; formación previa",
+      "indicadores": "Aciertos CAT; experiencia crédito; formación previa",
+      "metodologia": "Cuestionario anónimo a adultos con prueba breve",
+      "disponibilidad_fuentes": "SRC-004; SRC-017; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas personales, diseño y validación de cuestionarios",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 5,
+        "justificacion": "Nivel 5: predomina instrumento anónimo/público; Permisos éticos de aplicación; muestra no representativa de todo Yucatán"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Permisos éticos de aplicación; muestra no representativa de todo Yucatán",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 79,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: fuentes SRC-017 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 5,
+          "justificacion": "Nivel 5: predomina instrumento anónimo/público; Permisos éticos de aplicación; muestra no representativa de todo Yucatán",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-004",
+        "SRC-017",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/programas/enif/2024/",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": true
+    },
+    {
+      "id_propuesta": "PROP-122",
+      "id_linea": "LIN-12",
+      "id_original": "PROP-122",
+      "id_problema": "PROB-122",
+      "id_sector": "SEC-034",
+      "tema": "Educación e inclusión financiera",
+      "subtema": "Ahorro y presupuestos",
+      "problema": "Dificultad potencial para planear gastos recurrentes.",
+      "justificacion": "La educación financiera es afín a Fundación IMEF y a la División de Negocios; ENIF aporta conceptos generales, no respuestas de jóvenes yucatecos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "ENIF aporta marco nacional; nivel de conocimientos local aún no medido.",
+      "sector": "Trabajadores adultos del comercio de Kanasín.",
+      "subsector": "Trabajadores adultos del comercio",
+      "delimitacion_geografica": "Kanasín",
+      "titulo": "Hábitos de presupuestación y ahorro entre trabajadores del comercio de Kanasín.",
+      "pregunta_investigacion": "¿Qué hábitos de presupuestación y ahorro reportan trabajadores adultos del comercio de Kanasín?",
+      "variables": "Presupuesto mensual; ahorro; ingresos variables",
+      "indicadores": "Presupuesto mensual; ahorro; ingresos variables",
+      "metodologia": "Encuesta anónima y análisis descriptivo",
+      "disponibilidad_fuentes": "SRC-004; SRC-017; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas personales, diseño y validación de cuestionarios",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Datos personales sensibles; consentimiento"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; Datos personales sensibles; consentimiento",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-017 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; Datos personales sensibles; consentimiento",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-004",
+        "SRC-017",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/programas/enif/2024/",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    },
+    {
+      "id_propuesta": "PROP-123",
+      "id_linea": "LIN-12",
+      "id_original": "PROP-123",
+      "id_problema": "PROB-123",
+      "id_sector": "SEC-024",
+      "tema": "Educación e inclusión financiera",
+      "subtema": "Seguros empresariales",
+      "problema": "Coberturas que podrían no responder a riesgos reales.",
+      "justificacion": "La educación financiera es afín a Fundación IMEF y a la División de Negocios; ENIF aporta conceptos generales, no respuestas de jóvenes yucatecos. Esta propuesta reutiliza sin modificar el título de la matriz de 48 casos.",
+      "evidencia_yucatan": "ENIF aporta marco nacional; nivel de conocimientos local aún no medido.",
+      "sector": "Propietarios de micronegocios de Tizimín.",
+      "subsector": "Propietarios",
+      "delimitacion_geografica": "Tizimín",
+      "titulo": "Conocimiento de seguros y protección patrimonial en micronegocios de Tizimín.",
+      "pregunta_investigacion": "¿Qué coberturas de seguros conocen propietarios de micronegocios en Tizimín y cómo las comparan con sus riesgos?",
+      "variables": "Conocimiento producto; cobertura; percepción riesgo",
+      "indicadores": "Conocimiento producto; cobertura; percepción riesgo",
+      "metodologia": "Encuesta breve + escenarios hipotéticos de protección",
+      "disponibilidad_fuentes": "SRC-004; SRC-017; SRC-016",
+      "relacion_imef": "Comité o área nacional documentada; pertinencia local por validar",
+      "pertinencia_anahuac": "Finanzas personales, diseño y validación de cuestionarios",
+      "estado_evidencia": "Hipótesis sobre empresas / evidencia de contexto verificada",
+      "viabilidad": {
+        "nivel_1_5": 4,
+        "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No presupone seguros insuficientes ni problemas reales"
+      },
+      "limitaciones": "Acceso voluntario, muestra y validación temática del IMEF; No presupone seguros insuficientes ni problemas reales",
+      "prioridad_preliminar": "Media preliminar",
+      "puntuacion_editorial_0_100": 71,
+      "evaluacion": [
+        {
+          "criterio": "Alineación con IMEF",
+          "calificacion": 4,
+          "justificacion": "B: comité nacional en SRC-002; falta interés local",
+          "peso": 25
+        },
+        {
+          "criterio": "Relevancia regional",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: fuentes SRC-017 y SRC-008 describen contexto, no el problema de firmas elegidas",
+          "peso": 25
+        },
+        {
+          "criterio": "Fundamentación documental",
+          "calificacion": 3,
+          "justificacion": "Nivel 3: datos agregados disponibles; resultado microempresarial no comprobado",
+          "peso": 20
+        },
+        {
+          "criterio": "Relación con Facultad",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: programas SRC-016; acceso y asignación sin autorizar",
+          "peso": 15
+        },
+        {
+          "criterio": "Viabilidad de investigación",
+          "calificacion": 4,
+          "justificacion": "Nivel 4: necesita muestra y/o datos de empresas voluntarias; No presupone seguros insuficientes ni problemas reales",
+          "peso": 15
+        }
+      ],
+      "fuentes": [
+        "SRC-004",
+        "SRC-017",
+        "SRC-016"
+      ],
+      "fuente_principal_url": "https://www.inegi.org.mx/programas/enif/2024/",
+      "estado_validacion": "Preliminar: sin aceptación del profesor ni IMEF",
+      "seleccionada_para_reunion": false
+    }
+  ],
+  "fuentes": [
+    {
+      "id_fuente": "SRC-001",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas",
+      "autor": null,
+      "titulo": "Estatutos del Instituto Mexicano de Ejecutivos de Finanzas, A.C.",
+      "fecha_publicacion": "2023",
+      "url": "https://www.imef.org.mx/descargas/2023/cdn/mayo/1estatutosIMEF.pdf",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional primaria",
+      "afirmaciones_respaldadas": "Objeto social; grupos sin personalidad jurídica independiente",
+      "alcance_y_cautela": "Marco legal IMEF, no prueba de proyectos locales"
+    },
+    {
+      "id_fuente": "SRC-002",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas",
+      "autor": null,
+      "titulo": "Comités técnicos del IMEF",
+      "fecha_publicacion": "s. f.",
+      "url": "https://www.imef.org.mx/comites-tecnicos-del-imef/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional primaria",
+      "afirmaciones_respaldadas": "Comités nacionales de riesgos, tesorería, economía, turismo, fiscal, digital, capital humano, gobierno, energía",
+      "alcance_y_cautela": "Aplicación al Grupo Yucatán requiere consulta"
+    },
+    {
+      "id_fuente": "SRC-003",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas",
+      "autor": null,
+      "titulo": "Reglamento de operación de Grupos IMEF (ed. 02)",
+      "fecha_publicacion": "2017",
+      "url": "https://www.imef.org.mx/wp-content/uploads/2022/09/reglamento_operacion_grupos.pdf",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional primaria",
+      "afirmaciones_respaldadas": "Gobierno y límites operativos del Grupo",
+      "alcance_y_cautela": "Otra guía previa indica 2016; verificar portada y vigencia normativa"
+    },
+    {
+      "id_fuente": "SRC-004",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas",
+      "autor": null,
+      "titulo": "Fundación IMEF",
+      "fecha_publicacion": "s. f.",
+      "url": "https://www.imef.org.mx/fundacion-imef/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional primaria",
+      "afirmaciones_respaldadas": "Investigación y difusión nacional",
+      "alcance_y_cautela": "No demuestra proyecto específico del Grupo Yucatán"
+    },
+    {
+      "id_fuente": "SRC-005",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas",
+      "autor": null,
+      "titulo": "Indicador IMEF: marco y metodología",
+      "fecha_publicacion": "s. f.",
+      "url": "https://www.indicadorimef.org.mx/home/faq",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional primaria",
+      "afirmaciones_respaldadas": "Indicador nacional; perspectivas económicas",
+      "alcance_y_cautela": "No es serie autónoma publicada del Grupo Yucatán"
+    },
+    {
+      "id_fuente": "SRC-006",
+      "organismo": "Gobierno del Estado de Yucatán",
+      "autor": null,
+      "titulo": "Yucatán destaca a nivel nacional por disciplina financiera y crecimiento sostenido",
+      "fecha_publicacion": "2026-01-23",
+      "url": "https://www.yucatan.gob.mx/saladeprensa/ver_nota.php?id=10388",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Gobierno estatal",
+      "afirmaciones_respaldadas": "Segundo mandato local de Marrufo; seguimiento de Indicador IMEF Regional; membresía 64 a 74",
+      "alcance_y_cautela": "Las opiniones del funcionario no son auditorías"
+    },
+    {
+      "id_fuente": "SRC-007",
+      "organismo": "Agencia Mexicana de Noticias (Amexi)",
+      "autor": "Mejía, Jesús",
+      "titulo": "Yucatán, uno de los punteros en competitividad",
+      "fecha_publicacion": "2026-09-23",
+      "url": "https://amexi.com.mx/estados/yucatan-uno-de-los-punteros-en-competitividad/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Prensa atribuida",
+      "afirmaciones_respaldadas": "Declaraciones del presidente local sobre competitividad, formalización e inflación",
+      "alcance_y_cautela": "Declaraciones atribuidas; no prueba de interés por proyecto concreto"
+    },
+    {
+      "id_fuente": "SRC-008",
+      "organismo": "Instituto Nacional de Estadística y Geografía",
+      "autor": null,
+      "titulo": "Censos Económicos 2024: resultados definitivos, Yucatán (comunicado 110/25 corregido)",
+      "fecha_publicacion": "2025-07-24",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/ce/CE_2024_Def_Yuc.pdf",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Estadística oficial",
+      "afirmaciones_respaldadas": "130,438 unidades económicas privadas y paraestatales en 2023; micro 95.0%; informalidad establecimientos 63.9%",
+      "alcance_y_cautela": "Resultados definitivos corregidos; no extrapolar a firmas particulares"
+    },
+    {
+      "id_fuente": "SRC-009",
+      "organismo": "Instituto Nacional de Estadística y Geografía",
+      "autor": null,
+      "titulo": "ENOE Yucatán, cuarto trimestre de 2025 (boletín 128/26)",
+      "fecha_publicacion": "2026-02-24",
+      "url": "https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/enoe/enoe2026_02_Yuc.pdf",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Estadística oficial",
+      "afirmaciones_respaldadas": "59.9% informalidad laboral TIL1 cuarto trimestre 2025",
+      "alcance_y_cautela": "Distinta de informalidad de unidades económicas"
+    },
+    {
+      "id_fuente": "SRC-010",
+      "organismo": "Instituto Nacional de Estadística y Geografía",
+      "autor": null,
+      "titulo": "Encuesta Nacional de Financiamiento de las Empresas (ENAFIN) 2024",
+      "fecha_publicacion": "2025",
+      "url": "https://www.inegi.org.mx/programas/enafin/2024/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Estadística oficial",
+      "afirmaciones_respaldadas": "Instrumentos y contexto metodológico del acceso al crédito de empresas",
+      "alcance_y_cautela": "Cobertura nacional; no estimador municipal de Umán ni Kanasín"
+    },
+    {
+      "id_fuente": "SRC-011",
+      "organismo": "Secretaría de Fomento Turístico del Gobierno de Yucatán",
+      "autor": null,
+      "titulo": "Renacimiento Maya coordina con sectores privado y académico la promoción turística de Yucatán",
+      "fecha_publicacion": "2026-09-01",
+      "url": "https://sefotur.yucatan.gob.mx/boletines/724",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Gobierno estatal",
+      "afirmaciones_respaldadas": "107 cruceros y 336,792 pasajeros en Progreso enero-julio 2026; datos sectoriales",
+      "alcance_y_cautela": "Llegadas no implican ventas causales en comercios de Progreso"
+    },
+    {
+      "id_fuente": "SRC-012",
+      "organismo": "Secretaría de Economía",
+      "autor": null,
+      "titulo": "Data México: perfil económico de Yucatán",
+      "fecha_publicacion": "s. f. [datos a julio 2026]",
+      "url": "https://www.economia.gob.mx/datamexico/es/profile/geo/yucatan-yu",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Portal de estadística pública",
+      "afirmaciones_respaldadas": "Comercio exterior y empleo en Yucatán; detalle municipal variable",
+      "alcance_y_cautela": "Datos anonimizados; evitar agregados no comparables"
+    },
+    {
+      "id_fuente": "SRC-013",
+      "organismo": "Banco de México",
+      "autor": null,
+      "titulo": "Reporte sobre las economías regionales, abril-junio 2026",
+      "fecha_publicacion": "2026-09-10",
+      "url": "https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/reportes-economias-regionales.html",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Banco central",
+      "afirmaciones_respaldadas": "Contexto regional de costos, turismo y actividad económica",
+      "alcance_y_cautela": "La región sur no equivale exclusivamente a Yucatán"
+    },
+    {
+      "id_fuente": "SRC-014",
+      "organismo": "Universidad Anáhuac Mayab",
+      "autor": null,
+      "titulo": "División de Negocios: academia, misión y afiliaciones",
+      "fecha_publicacion": "s. f. [consultado 2026]",
+      "url": "https://merida.anahuac.mx/negocios/academia",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional universitaria",
+      "afirmaciones_respaldadas": "Facultad de Economía y Negocios; IMEF listado entre afiliaciones",
+      "alcance_y_cautela": "No demuestra convenio específico de investigación en ejecución"
+    },
+    {
+      "id_fuente": "SRC-015",
+      "organismo": "Universidad Anáhuac Mayab",
+      "autor": null,
+      "titulo": "División de Negocios: aulas especializadas",
+      "fecha_publicacion": "s. f. [consultado 2026]",
+      "url": "https://merida.anahuac.mx/negocios/instalaciones",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional universitaria",
+      "afirmaciones_respaldadas": "Centro de Inteligencia de Negocios; ejercicios con Refinitiv",
+      "alcance_y_cautela": "Acceso de proyecto externo no comprobado"
+    },
+    {
+      "id_fuente": "SRC-016",
+      "organismo": "Universidad Anáhuac Mayab",
+      "autor": null,
+      "titulo": "División de Negocios: oferta académica",
+      "fecha_publicacion": "s. f. [consultado 2026]",
+      "url": "https://merida.anahuac.mx/division-de-negocios",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional universitaria",
+      "afirmaciones_respaldadas": "Programas de Administración, Finanzas, Negocios Internacionales y Turismo; posgrados",
+      "alcance_y_cautela": "No acredita capacidad docente o dedicación para cada propuesta"
+    },
+    {
+      "id_fuente": "SRC-017",
+      "organismo": "Instituto Nacional de Estadística y Geografía",
+      "autor": null,
+      "titulo": "Encuesta Nacional de Inclusión Financiera (ENIF) 2024",
+      "fecha_publicacion": "s. f.",
+      "url": "https://www.inegi.org.mx/programas/enif/2024/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Estadística oficial",
+      "afirmaciones_respaldadas": "Marco conceptual de inclusión financiera",
+      "alcance_y_cautela": "Datos agregados; no inferir conocimientos de estudiantes de Mérida"
+    },
+    {
+      "id_fuente": "SRC-018",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas",
+      "autor": null,
+      "titulo": "Acerca del IMEF",
+      "fecha_publicacion": "s. f.",
+      "url": "https://www.imef.org.mx/acerca-del-imef/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Institucional primaria",
+      "afirmaciones_respaldadas": "Misión y objeto nacional",
+      "alcance_y_cautela": "No es declaración de prioridades locales"
+    },
+    {
+      "id_fuente": "SRC-019",
+      "organismo": "Instituto Mexicano de Ejecutivos de Finanzas / Foro IMEF Yucatán",
+      "autor": null,
+      "titulo": "XV Foro Empresarial IMEF Yucatán (convocatoria)",
+      "fecha_publicacion": "2026",
+      "url": "https://foroimefyucatan.com/",
+      "referencia_interna": null,
+      "fecha_consulta": "2026-10-29",
+      "tipo_fuente": "Evento / anuncio",
+      "afirmaciones_respaldadas": "Agenda empresarial anunciada con economía, IA y estrategia",
+      "alcance_y_cautela": "Convocatoria no acredita asistencia ni resultados"
+    }
+  ],
+  "metodologia": {
+    "version": "V1 conservada en V2",
+    "estado": "Preliminar, pendiente de aprobación del profesor",
+    "criterios": [
+      {
+        "criterio": "Alineación con IMEF",
+        "peso_porcentual": 25,
+        "escala": "1: relación lejana; 2: afinidad general; 3: objeto próximo; 4: comité técnico nacional directamente afín; 5: tema declarado públicamente por presidencia local (no proyecto aprobado)."
+      },
+      {
+        "criterio": "Relevancia regional",
+        "peso_porcentual": 25,
+        "escala": "1: sin base territorial; 2: ubicación nominal; 3: contexto estatal agregado; 4: indicador estatal/sectorial relacionado; 5: señal regional/sectorial específica para ese tema, no problema demostrado."
+      },
+      {
+        "criterio": "Fundamentación documental",
+        "peso_porcentual": 20,
+        "escala": "1: sin fuente; 2: material genérico; 3: dato oficial general; 4: fuente sectorial o declaración específica; 5: medición directa del problema en población objeto (no asignado)."
+      },
+      {
+        "criterio": "Relación con Facultad",
+        "peso_porcentual": 15,
+        "escala": "1: ajeno; 2: vínculo incipiente; 3: programa genérico; 4: programa documentado acorde; 5: programa y recurso docente/instalación verificable como capacidad potencial."
+      },
+      {
+        "criterio": "Viabilidad de investigación",
+        "peso_porcentual": 15,
+        "escala": "1: datos restringidos inalcanzables; 2: fuerte restricción; 3: casos/datos privados voluntarios; 4: encuesta y fuente pública; 5: encuesta anónima o datos públicos más directos; siempre requiere consentimiento."
+      }
+    ],
+    "notas": [
+      {
+        "aspecto": "Interpretación",
+        "descripcion": "Puntaje ponderado= (Σ calificación 1–5 × peso porcentual)/5. ≥80 alta preliminar, 65–79.9 media, <65 exploratoria. No es probabilidad de éxito."
+      },
+      {
+        "aspecto": "Aplicación",
+        "descripcion": "Todas las 36 propuestas tienen cinco razones individuales registradas en PROPUESTAS W–AF. El puntaje refleja evaluación editorial, no certificación de IMEF."
+      },
+      {
+        "aspecto": "Fuente de criterios",
+        "descripcion": "Rubrica propuesta por el equipo a partir de fuentes SRC-002, SRC-008 y SRC-014/016; pendiente de aprobación del profesor."
+      }
+    ],
+    "formula": "suma(calificacion_1_a_5 × ponderacion_porcentual) / 5",
+    "umbrales": {
+      "alta_preliminar": ">=80",
+      "media_preliminar": "65 a 79.9",
+      "exploratoria": "<65"
+    },
+    "limites": "Evaluación editorial de pertinencia. No equivale a interés, aval o probabilidad de éxito; el nivel de viabilidad 1–5 es distinto de la puntuación global.",
+    "criterio_seleccion": "36 títulos conservados del catálogo de 48; tres por línea, con una propuesta ejecutiva por línea, exactamente como en la versión maestra V1."
+  },
+  "validaciones": [
+    {
+      "id": "VAL-PUB-01",
+      "asunto": "Aprobación de la agenda",
+      "solicitud": "Pendiente de revisión del profesor y de consulta con IMEF Yucatán.",
+      "estado": "No aprobada ni autorizada oficialmente"
+    },
+    {
+      "id": "VAL-PUB-02",
+      "asunto": "Investigación de campo",
+      "solicitud": "Requiere métodos definidos, consentimiento, acceso voluntario a datos y revisión ética.",
+      "estado": "Sin ejecución ni resultados empíricos"
+    },
+    {
+      "id": "VAL-PUB-03",
+      "asunto": "Autorización para difusión",
+      "solicitud": "Las propuestas no se clasifican como autorizadas mientras no exista registro documental.",
+      "estado": "0 propuestas autorizadas"
+    }
+  ]
+}
